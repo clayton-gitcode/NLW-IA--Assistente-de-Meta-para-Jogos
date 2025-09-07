@@ -1,4 +1,4 @@
-
+![Preview da interface](assets/preview.png)
 # NLW-IA: Assistente de Meta para Jogos
 
 Este projeto é um assistente inteligente que responde perguntas sobre o meta atual de jogos populares como Valorant, League of Legends e Destiny 2. Utiliza a API Gemini para fornecer respostas atualizadas, diretas e em português do Brasil, com base nas últimas informações do patch de cada jogo.
